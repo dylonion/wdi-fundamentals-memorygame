@@ -80,3 +80,16 @@ font-size: 0;
 	color: #F15B31;
 	font-weight: 700;
 }
+#score {
+	color: #F15B31;
+}
+#reset {
+	background-color: #F15B31;
+	color:white;
+	padding:10px 20px;
+	border:none;
+	border-radius: 3px;
+	font-family: "Raleway", sans-serif;
+	font-size: 20px;
+	cursor: pointer;
+}
